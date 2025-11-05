@@ -1,4 +1,4 @@
-# simpleChatApplication
+# SimpleChatApplication
 Abishan Shanmuhesan
 300430579
 Assignment 2
