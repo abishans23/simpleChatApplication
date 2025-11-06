@@ -8,6 +8,7 @@ import ocsf.client.*;
 
 import java.io.*;
 
+import client.AbstractClient;
 import edu.seg2105.client.common.*;
 import edu.seg2105.client.ui.ClientConsole;
 

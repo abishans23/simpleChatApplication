@@ -8,7 +8,7 @@ import java.io.IOException;
 
 import edu.seg2105.client.common.ChatIF;
 import edu.seg2105.server.ui.ServerConsole;
-import ocsf.server.*;
+import server.*;
 
 /**
  * This class overrides some of the methods in the abstract 
